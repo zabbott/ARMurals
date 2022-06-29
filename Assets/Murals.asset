@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Murals
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4857836506893635443
+  m_GuidHigh: 557756445458934958
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5624163561281887811
+      m_GuidHigh: 12014608522917869995
+    m_SerializedTextureGuid:
+      m_GuidLow: 2680775280784118358
+      m_GuidHigh: 46909038490783867
+    m_Size: {x: 1, y: 1.2}
+    m_SpecifySize: 1
+    m_Name: Betty Friedan by Eliza Von Zerneck_email
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4710932227340094400
+      m_GuidHigh: 17651699228715312568
+    m_SerializedTextureGuid:
+      m_GuidLow: 7594242641754330262
+      m_GuidHigh: 4085612371314273611
+    m_Size: {x: 1, y: 1.0992366}
+    m_SpecifySize: 1
+    m_Name: Bob_Gilmore by JBerkley
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4919007611776887530
+      m_GuidHigh: 12459094080478707371
+    m_SerializedTextureGuid:
+      m_GuidLow: 17727375312105117876
+      m_GuidHigh: 12460498787433835243
+    m_Size: {x: 1, y: 1.2220651}
+    m_SpecifySize: 1
+    m_Name: 'Fibber_McGee___Molly by Bob Doucette '
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4627336862895208477
+      m_GuidHigh: 7296188582183071397
+    m_SerializedTextureGuid:
+      m_GuidLow: 14106427388338197287
+      m_GuidHigh: 17983388405589029001
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: Lydia Moss Bradley Connie Andrews
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5433366362202105038
+      m_GuidHigh: 18341950511812775582
+    m_SerializedTextureGuid:
+      m_GuidLow: 15007154618766097115
+      m_GuidHigh: 14075212148170568393
+    m_Size: {x: 1, y: 1.255814}
+    m_SpecifySize: 1
+    m_Name: Nance Legins Costley Nance by Preston Jackson
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4993220574380455850
+      m_GuidHigh: 10347851762294632343
+    m_SerializedTextureGuid:
+      m_GuidLow: 17110550098416142029
+      m_GuidHigh: 8492010771775883002
+    m_Size: {x: 1, y: 1.2}
+    m_SpecifySize: 1
+    m_Name: Romeo B Garrett Kevin Bradford signed
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5038869128775802852
+      m_GuidHigh: 11407349090434853823
+    m_SerializedTextureGuid:
+      m_GuidLow: 10652393729500481512
+      m_GuidHigh: 2061651005265177595
+    m_Size: {x: 1, y: 0.9027778}
+    m_SpecifySize: 1
+    m_Name: Trish Williams Annie Turnbo Malone
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5131839134968215394
+      m_GuidHigh: 5687443057688510653
+    m_SerializedTextureGuid:
+      m_GuidLow: 7625765929836606322
+      m_GuidHigh: 11902532856952331003
+    m_Size: {x: 1, y: 1.1034483}
+    m_SpecifySize: 1
+    m_Name: Valeska Hinton by Gentry
+    m_Texture: {fileID: 0}
