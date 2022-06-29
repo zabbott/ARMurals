@@ -38,6 +38,7 @@ public class ARImageRecognition : MonoBehaviour
                 if (item.trackingState == UnityEngine.XR.ARSubsystems.TrackingState.Tracking)
                 {
                     foundNames.Add(item.referenceImage.name);
+                    MuralFoundLogic.ShowMuralUI(item.referenceImage.name);
 
                 }
                 else if (item.trackingState == UnityEngine.XR.ARSubsystems.TrackingState.Limited)
