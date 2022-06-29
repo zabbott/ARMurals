@@ -6070,7 +6070,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   trackedImageManager: {fileID: 1055244856}
-  canScan: 0
+  canScan: 1
   foundNames: []
   Timer: 0
   MuralFoundLogic: {fileID: 1055244858}
