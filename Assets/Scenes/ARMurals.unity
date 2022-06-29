@@ -1359,7 +1359,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &390094942
 Transform:
   m_ObjectHideFlags: 0
@@ -3027,6 +3027,8 @@ GameObject:
   - component: {fileID: 1055244853}
   - component: {fileID: 1055244857}
   - component: {fileID: 1055244856}
+  - component: {fileID: 1055244859}
+  - component: {fileID: 1055244858}
   m_Layer: 0
   m_Name: AR Session
   m_TagString: Untagged
@@ -3106,6 +3108,53 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Camera: {fileID: 0}
+--- !u!114 &1055244858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1055244852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c8df28e3a7bb5d41aa4f1b2ab40fb82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ImageNames:
+  - Betty Friedan by Eliza Von Zerneck_email
+  - Bob_Gilmore by JBerkley
+  - 'Fibber_McGee___Molly by Bob Doucette '
+  - Lydia Moss Bradley Connie Andrews
+  - Nance Legins Costley Nance by Preston Jackson
+  - Romeo B Garrett Kevin Bradford signed
+  - Trish Williams Annie Turnbo Malone
+  - Valeska Hinton by Gentry
+  Panels:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!114 &1055244859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1055244852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97c98f6124d761147b69ab49917db10c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trackedImageManager: {fileID: 1055244856}
+  canScan: 0
+  foundNames: []
+  Timer: 0
+  MuralFoundLogic: {fileID: 1055244858}
 --- !u!1 &1136408172
 GameObject:
   m_ObjectHideFlags: 0
